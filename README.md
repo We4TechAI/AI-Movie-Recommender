@@ -111,7 +111,7 @@ streamlit run app.py
 
 ```
 AI-Movie-Recommender/
-├── app.py                 # Main application file
+├── main.py                 # Main application file
 ├── requirements.txt       # Python dependencies
 ├── .env                  # Environment variables
 ├── Dockerfile           # Docker configuration
